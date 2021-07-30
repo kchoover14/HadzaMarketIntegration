@@ -1,4 +1,5 @@
 # Market integration in a transitional hunter-gatherer population only benefits males
+J. Colette Berbesque and Kara C. Hoover
 
 Background and Objectives: The transition from hunting-gathering to domestication and market economics creates disparity in wealth and health. Comparing past and contemporary transitions is challenging due to differences in data. We ask whether methodological differences have failed to capture sex-based health differences in past transitional societies.
 Methodology: We collected data in living hunter-gatherers for a common marker of poor health in past populations, missing enamel that indicates an interruption in growth during childhood due to malnutrition or disease. We analyzed data using t-tests with sex as a factor. We then analyzed data using additional information available in living populations, year of birth, via a time series regression. 
